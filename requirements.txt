@@ -1,0 +1,14 @@
+weaviate-client
+langchain
+pypdf
+langchain-community
+requests
+rapidocr-onnxruntime
+sentence-transformers
+transformers
+langchain-huggingface   
+huggingface-hub
+python-dotenv
+streamlit
+protobuf
+fitz
